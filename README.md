@@ -2,7 +2,7 @@
 
 This project is a front-end Mood Palette Generator created using HTML and CSS. The website uses different color-based mood buttons, and when a user clicks a color, a popover appears with information describing that mood and emotions related to it.
 
----
+Live demo:https://sanskruti-devkar.github.io/Mood--Genearator/
 
 ## Features
 
